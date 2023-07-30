@@ -1,7 +1,7 @@
 // const slides = document.querySelectorAll(".img_content li");
 const prevBtn = document.querySelector(".button_before");
 const nextBtn = document.querySelector(".button_next");
-let slideIndex = 7;
+let slideIndex = 1;
 let slides = document.querySelectorAll(".img_content li");
 // // 이전 버튼
 // prevBtn.addEventListener("click", function () {
